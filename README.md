@@ -7,7 +7,7 @@ Implementación de un servidor Linux automatizado con Docker para la asignatura 
 - Andres Zavala Alvarado ZA21010
 - Joel Isaac Chavez Areval CA24016
 - Diego Oswaldo Meza Argueta MA20081
-- [Nombre 4]
+- Gerardo Adonay Flores Rodas  FR24012
 
 ## Estructura del Proyecto
 🖥️ Despliegue del Servidor en Oracle Cloud — Detalle del Proceso
